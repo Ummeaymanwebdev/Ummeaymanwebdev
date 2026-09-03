@@ -1,5 +1,4 @@
-<img src="<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/d0369e8a-a14f-406a-a60a-29347fe963cd" />
-" width="100%" />
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/d0369e8a-a14f-406a-a60a-29347fe963cd" />
 <h1 align="center">Hi 👋, I'm Umme Ayman</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
