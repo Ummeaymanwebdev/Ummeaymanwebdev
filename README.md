@@ -30,7 +30,7 @@ I'm an aspiring Web Developer focused on building modern, responsive, and user-f
 
 ### 📍 My Location
 
-![Location](https://img.shields.io/badge/Location-Bangladesh-1e1e2e?style=for-the-badge&logo=google-maps&logoColor=white)
+![Dhaka](https://img.shields.io/badge/Location-Bangladesh-1e1e2e?style=for-the-badge&logo=google-maps&logoColor=white)
 
 ---
 
@@ -68,7 +68,7 @@ I'm an aspiring Web Developer focused on building modern, responsive, and user-f
 
 [![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/Ummeaymanwebdev)
 
-<!-- পরে শিখলে এখানে যোগ করো:
+
 ### Database & Model:
 [![Database](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/Ummeaymanwebdev)
 -->
@@ -88,6 +88,58 @@ I'm an aspiring Web Developer focused on building modern, responsive, and user-f
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ummeaymanwebdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ummeaymanwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+**Languages:**
+
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/Ummeaymanwebdev)
+
+**CSS Frameworks & Libraries:**
+
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/Ummeaymanwebdev)
+
+**JavaScript Frameworks & Libraries:**
+
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react)](https://github.com/Ummeaymanwebdev)
+
+
+**Backend:**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/Ummeaymanwebdev)
+
+**Database & Model:**
+
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,prisma)](https://github.com/Ummeaymanwebdev)
+
+
+**Design & Graphics:**
+
+[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/Ummeaymanwebdev)
+
+**Tools & Technologies:**
+
+[![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman)](https://github.com/Ummeaymanwebdev)
+
+---
+
+## 📊 GITHUB STATISTICS & ANALYSIS:
+
+**GitHub Contributions:**
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ummeaymanwebdev/Ummeaymanwebdev/output/github-contribution-grid-snake.svg)
+
+**GitHub Statistics:**
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ummeaymanwebdev&show_icons=true&hide_border=false&title_color=F5821F&icon_color=F5821F&text_color=4C9A2A&bg_color=FFFFFF&border_color=E4E2E2&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ummeaymanwebdev&layout=compact&title_color=F5821F&text_color=444444&bg_color=FFFFFF&border_color=E4E2E2" alt="Most Used Languages" />
+</p>
+
+**Repository Stats & Streak:**
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ummeaymanwebdev&background=FFFFFF&ring=F5821F&fire=F5821F&currStreakNum=222222&currStreakLabel=F5821F&sideNums=F5821F&sideLabels=4C9A2A&dates=4C9A2A&stroke=E4E2E2&border=E4E2E2" alt="GitHub Streak" />
 </p>
 
 ---
