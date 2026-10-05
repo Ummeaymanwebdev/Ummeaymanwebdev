@@ -82,20 +82,24 @@ I'm an aspiring Web Developer focused on building modern, responsive, and user-f
 
 ## 📊 GITHUB STATISTICS & ANALYSIS:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ummeaymanwebdev/Ummeaymanwebdev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ummeaymanwebdev/Ummeaymanwebdev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ummeaymanwebdev/Ummeaymanwebdev/output/github-contribution-grid-snake.svg" />
-</picture>
+**GitHub Contributions:**
 
----
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ummeaymanwebdev/Ummeaymanwebdev/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <a href="https://github.com/Ummeaymanwebdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ummeaymanwebdev&theme=dark" alt="GitHub Streak" />
-  </a>
+**GitHub Statistics:**
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ummeaymanwebdev&show_icons=true&hide_border=false&title_color=F5821F&icon_color=F5821F&text_color=4C9A2A&bg_color=FFFFFF&border_color=E4E2E2&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ummeaymanwebdev&layout=compact&title_color=F5821F&text_color=444444&bg_color=FFFFFF&border_color=E4E2E2" alt="Most Used Languages" />
 </p>
 
+**Repository Stats & Streak:**
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ummeaymanwebdev&background=FFFFFF&ring=F5821F&fire=F5821F&currStreakNum=222222&currStreakLabel=F5821F&sideNums=F5821F&sideLabels=4C9A2A&dates=4C9A2A&stroke=E4E2E2&border=E4E2E2" alt="GitHub Streak" />
+</p>
+
+---
 ---
 
 ## 🎯 2026 Goals
