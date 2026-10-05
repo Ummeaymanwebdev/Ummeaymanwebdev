@@ -48,49 +48,6 @@ I'm an aspiring Web Developer focused on building modern, responsive, and user-f
 
 ## 🛠️ TECHNOLOGY STACK
 
-### Languages:
-
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/Ummeaymanwebdev)
-
-### CSS Frameworks & Libraries:
-
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/Ummeaymanwebdev)
-
-### JavaScript Frameworks & Libraries:
-
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react)](https://github.com/Ummeaymanwebdev)
-
-### Design & Graphics:
-
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/Ummeaymanwebdev)
-
-### Tools & Technologies:
-
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/Ummeaymanwebdev)
-
-
-### Database & Model:
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/Ummeaymanwebdev)
--->
-
----
-
-## 📊 GITHUB STATISTICS & ANALYSIS
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Ummeaymanwebdev/Ummeaymanwebdev/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ummeaymanwebdev&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ummeaymanwebdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ummeaymanwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 **Languages:**
 
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/Ummeaymanwebdev)
